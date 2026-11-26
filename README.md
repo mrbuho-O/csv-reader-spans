@@ -16,3 +16,5 @@ then run `node main.ts`. The program writes `output/answers.json` in input order
 
 The parser matched all six published practice cases and 50,020 generated edge
 cases against the reference implementation before submission.
+
+If this parser helped, you can [leave a Lightning tip](https://coinos.io/measuredwork743b0463) or use `measuredwork743b0463@coinos.io` in your wallet. The note `csv-reader` lets me match a tip to this project.
